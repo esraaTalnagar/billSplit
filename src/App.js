@@ -86,7 +86,7 @@ function Button ({ onClick, children }) {
 function AddFriendForm({ onAddFriend }) {
   const [Name, setName] = useState("");
   const [Image, setImage] = useState("https://i.pravatar.cc/48");
-
+  
   const handleSubmit = (e) => {
     e.preventDefault();
     const id = crypto.randomUUID();
