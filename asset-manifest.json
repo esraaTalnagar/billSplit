@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/esraaTalnagar/billSplit.git/static/css/main.f38a3276.css",
+    "main.js": "/esraaTalnagar/billSplit.git/static/js/main.eeebc3b5.js",
+    "index.html": "/esraaTalnagar/billSplit.git/index.html",
+    "main.f38a3276.css.map": "/esraaTalnagar/billSplit.git/static/css/main.f38a3276.css.map",
+    "main.eeebc3b5.js.map": "/esraaTalnagar/billSplit.git/static/js/main.eeebc3b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f38a3276.css",
+    "static/js/main.eeebc3b5.js"
+  ]
+}
